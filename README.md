@@ -1,2 +1,2 @@
-Примечание: 1) Файл Shrum.png вы можете поменять на свой, но учтите что вы должны поменять в MDSmartTile путь к файлу
-            2) Версия вашего kivy должен быть 2.3.0(в терминале так показывает)
+Note: 1) You can change the Shrum.png file to your own, but note that you must change the file path in MDSmartTile.
+      2) The version of your kivy should be 2.3.0 (it shows so in the terminal )
